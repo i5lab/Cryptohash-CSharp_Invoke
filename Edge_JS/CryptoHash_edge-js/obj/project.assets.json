@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\imi-pc\\.nuget\\packages\\": {},
+    "E:\\Installed_Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\MyProgs\\Nextcloud\\Documents\\Codes\\Blockchain\\best_practice_MATLAB_SharedMem\\BlockChain\\CryptoHash_edge-js\\CryptoHash.csproj",
+      "projectName": "CryptoHash",
+      "projectPath": "C:\\MyProgs\\Nextcloud\\Documents\\Codes\\Blockchain\\best_practice_MATLAB_SharedMem\\BlockChain\\CryptoHash_edge-js\\CryptoHash.csproj",
+      "packagesPath": "C:\\Users\\imi-pc\\.nuget\\packages\\",
+      "outputPath": "C:\\MyProgs\\Nextcloud\\Documents\\Codes\\Blockchain\\best_practice_MATLAB_SharedMem\\BlockChain\\CryptoHash_edge-js\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Installed_Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\imi-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net481"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net481": {
+        "targetAlias": "net481",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

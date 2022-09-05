@@ -1,0 +1,15 @@
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\bin\Debug\net6.0\Crypto-STDout.exe
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\bin\Debug\net6.0\Crypto-STDout.deps.json
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\bin\Debug\net6.0\Crypto-STDout.runtimeconfig.json
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\bin\Debug\net6.0\Crypto-STDout.dll
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\bin\Debug\net6.0\Crypto-STDout.pdb
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.csproj.AssemblyReference.cache
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.AssemblyInfoInputs.cache
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.AssemblyInfo.cs
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.csproj.CoreCompileInputs.cache
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.dll
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\refint\Crypto-STDout.dll
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.pdb
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\Crypto-STDout.genruntimeconfig.cache
+F:\MyProgs\NextCloud\Documents\Codes\Blockchain\best_practice_MATLAB_SharedMem\BlockChain\Crypto-STDout\Crypto-STDout\obj\Debug\net6.0\ref\Crypto-STDout.dll
